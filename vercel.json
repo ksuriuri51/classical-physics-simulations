@@ -3,6 +3,6 @@
   "outputDirectory": "dist",
   "devCommand": "npm run dev",
   "env": {
-    "VITE_APP_TITLE": "@Physics Simulations Lab"
+    "VITE_APP_TITLE": "Physics Simulations Lab"
   }
 }
