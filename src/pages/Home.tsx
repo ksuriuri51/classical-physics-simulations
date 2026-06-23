@@ -8,16 +8,16 @@ export default function Home() {
           Welcome to Physics Simulations Lab
         </h2>
         <p style={{ marginBottom: '16px', fontSize: '16px', lineHeight: '1.6', color: '#6F4E37' }}>
-          This educational application provides interactive 2D simulations to help you understand fundamental concepts in classical mechanics. Each simulation is designed to be accurate, intuitive, and visually clear.
+          This educational application provides interactive 2D simulations to help you understand fundamental concepts in classical mechanics. this website was originally created by a pysics student for theri physics lab project.
         </p>
         <p style={{ fontSize: '16px', lineHeight: '1.6', color: '#6F4E37' }}>
-          Adjust parameters in real-time, observe how the system responds, and develop an intuitive understanding of the underlying physics principles.
+          you will be able to Adjust parameters in real-time.
         </p>
       </section>
 
       <section>
         <h2 style={{ fontSize: '24px', fontWeight: 'bold', marginBottom: '32px', color: '#1D2951' }}>
-          Available Simulations
+           Simulations
         </h2>
 
         <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '24px' }}>
@@ -58,6 +58,8 @@ export default function Home() {
               Explore a reversible compound pendulum that measures gravitational acceleration. Adjust pivot distance and mass distribution to calculate g.
             </p>
             <Button label="Launch Simulation" />
+            <p style={{ marginBottom: '8px', fontSize: '12px', fontWeight: 'bold', color: '#1D2951' }}>
+              Amir Kabir University of Technology
           </div>
         </div>
       </section>
