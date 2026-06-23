@@ -13,6 +13,9 @@ export default function Home() {
         <p style={{ fontSize: '16px', lineHeight: '1.6', color: '#6F4E37' }}>
           you will be able to Adjust parameters in real-time.
         </p>
+                 <p style={{ marginBottom: '8px', fontSize: '12px', fontWeight: 'bold', color: '#1D2951' }}>
+              Amir Kabir University of Technology
+                 </p>
       </section>
 
       <section>
@@ -58,8 +61,6 @@ export default function Home() {
               Explore a reversible compound pendulum that measures gravitational acceleration. Adjust pivot distance and mass distribution to calculate g.
             </p>
             <Button label="Launch Simulation" />
-            <p style={{ marginBottom: '8px', fontSize: '12px', fontWeight: 'bold', color: '#1D2951' }}>
-              Amir Kabir University of Technology
           </div>
         </div>
       </section>
