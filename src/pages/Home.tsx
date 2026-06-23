@@ -8,8 +8,7 @@ export default function Home() {
           Welcome to Physics Simulations Lab
         </h2>
         <p style={{ marginBottom: '16px', fontSize: '16px', lineHeight: '1.6', color: '#6F4E37' }}>
-          This educational application provides interactive 2D simulations to help you understand fundamental concepts in classical mechanics. this website was originally created by a pysics student for theri physics lab project. 
-          you will be able to Adjust parameters for each simulation.
+          This educational application provides interactive 2D simulations to help you understand fundamental concepts in classical mechanics. this website was originally created by a physics student for their physics lab project. you will be able to Adjust parameters for each simulation.
         </p>
                  <p style={{ marginBottom: '8px', fontSize: '12px', fontWeight: 'bold', color: '#1D2951' }}>
 
